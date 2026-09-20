@@ -1,4 +1,4 @@
-const API_BASE = "http://cafesystemapiadana.runasp.net/api";
+const API_BASE = "https://cafesystemapiadana.runasp.net/api";
 
 function getToken() {
     return localStorage.getItem("accessToken");
