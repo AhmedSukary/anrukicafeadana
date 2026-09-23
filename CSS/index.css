@@ -657,7 +657,6 @@ section .products {
     gap: 5px;
     width: 100%;
     padding: 5px;
-    border-right: 5px solid var(--bg-light);
 }
 
 section .products .product {
